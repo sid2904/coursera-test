@@ -23,6 +23,7 @@
 			height: auto;
 			width: 100%;
 			overflow: auto;
+			padding: 10px;
 		}
 		#fsize-h1{
 			font-size: 1.75em;
@@ -37,7 +38,7 @@
 			border: 1px solid black;
 			width: 20%;
 			margin-left: 80%;
-			height: 20px;
+			height: 22px;
 			text-align: center;
 			font-size: 1.25em;
 		}
@@ -46,7 +47,7 @@
 			background-color: red;
 			border: 1px solid black;
 			width: 20%;
-			height: 20px;
+			height: 22px;
 			position: relative;
 			margin-left: 80%;
 			text-align: center;
@@ -57,7 +58,7 @@
 			background-color: yellow;
 			border: 1px solid black;
 			width: 20%;
-			height: 20px;
+			height: 22px;
 			position: relative;
 			margin-left: 80%;
 			text-align: center;
